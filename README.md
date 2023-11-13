@@ -1,8 +1,11 @@
 # HEXEN N64 TOOL (HexenN64Tool)
 ## Español
 Herramienta para Hexen N64 por [GEC]
+
 Esta herramienta es capaz de extraer los datos principales de la ROM, además es compatible con todas las versiones del juego.
+
 El modo de uso es sencillo ya que utiliza archivos ".bat" para ejecutar el programa.
+
 Los modos permitidos son los siguientes:
   * (-getfiles) Extrae los datos principales del juego "HEXEN64.WAD","HEXEN64.PTR","HEXEN64.WBK" y "HEXEN64.DAT", este último se descomprime automáticamente ya que está comprimido.
   * (-encode) Encodifica el archivo.
@@ -13,9 +16,13 @@ Los modos permitidos son los siguientes:
 
 ## English
 Tool for Hexen N64 by [GEC]
+
 This tool is capable of exporting the main ROM data, besides it's complatible with all the versions of the game.
+
 The mode of use is very simple as it uses ".bat" files to run the program.
+
 These are the allowed modes as follows:
+
   * (-getfiles) Export the main data from the game "HEXEN64.WAD","HEXEN64.PTR","HEXEN64.WBK" and "HEXEN64.DAT", the latter will descompress itselft as it's already compressed .
   * (-encode) Encodes the file.
   * (-decode) Decodes the file.
